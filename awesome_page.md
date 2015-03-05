@@ -1,3 +1,6 @@
+**This should be bold text**
+**And this should be bold as well!!!**
+
 _This should be italicized._
 
 This is inline - `var x = 5;` and the...
