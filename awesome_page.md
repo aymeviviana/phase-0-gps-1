@@ -1,4 +1,6 @@
 **This should be bold text**
+**And this should be bold as well!!!**
+
 
 _This should be italicized._
 
